@@ -1,2 +1,1 @@
-# codestreet
-A bin for my codes
+This place contains all the codes I have wrote in the past.
